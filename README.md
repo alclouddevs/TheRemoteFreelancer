@@ -27,6 +27,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 900,000        |            | Consultants, Data Scientists, & Developers|
 | [Certace](https://www.certace.com)                                                       | 10,000,000     |            | Data Scientists                           |
+| [Cloud Devs](https://www.clouddevs.com)                                                  | 10,100,000     |            | Data Scientists, Developers & Designers   |
 | **Tutoring**                                                                             |                |            |                                           |
 | [CodeMentor.io](https://www.codementor.io)                                               | 10,000         | Tutoring   | Developers                                |
 | **Other**                                                                                |                |            |                                           |
